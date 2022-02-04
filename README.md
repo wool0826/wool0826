@@ -14,6 +14,7 @@
 - Java, Kotlin, Python
 - Spring Boot, Spring Batch
 - Spring JDBC Plus
+- MySQL, Distributed DBMS
 - JUnit5, JUnit4, Mockito
 - Gradle
 - IntelliJ
@@ -21,11 +22,6 @@
 
 ### DevOps
 - Docker, Kubernetes
-- Jenkins
-- Nginx
-- Grafana
-- Pinpoint
-- MySQL, Distributed DBMS
 
 ## Experiences
 
